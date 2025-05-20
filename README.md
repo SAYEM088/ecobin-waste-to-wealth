@@ -1,1 +1,3 @@
-# ecobin-waste-to-wealth
+# ecobin
+A React Native App
+waste-to-wealth
